@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color :white;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:	17px;
+	line-height: 30px;
+	width: 500px;
+	background-color:#007864;
+	padding: 20px;
+		
+} 
+
+
+h2{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: white;
+}
+
+	
+
+img{
+	height: 400px;
+	
+	
+	
+	
+
+}
+body{
+	background-image:url("digitalni1/pozadina.jpg")
+}
